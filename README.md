@@ -1,5 +1,5 @@
 
-![Alt Text]("https://kevinjacob2001.github.io/img.jpg")
+![error]("https://kevinjacob2001.github.io/img.jpg")
 
 - 🔭 I’m currently working on Web.
 - 🌱 I’m currently learning Javascript.
