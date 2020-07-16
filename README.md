@@ -1,4 +1,4 @@
-- 💕 Welcome to all my gorgeous friends in the internet!
+- 💕 Welcome to all my gorgeous friends on the internet!
 
 - 🔭 I’m currently working on Web.
 
