@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning Javascript and its frameworks!
 
-- 📫 How to reach me:
+- 📫 How to reach out to me:
                        https://www.instagram.com/kevinjacob2001/    OR   
                        https://www.linkedin.com/in/kevinjacob2001/
