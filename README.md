@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Web.
 
-- 🌱 I’m currently learning Javascript and its frameworks!
+- 🌱 I’m currently learning Javascript and its framework like React!
 
 - 📫 Get in touch
 - Personal site: https://kevinjacob2001.github.io/
