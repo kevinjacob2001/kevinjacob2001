@@ -2,9 +2,6 @@
 ## :octocat: I'm Kevin Jacob
 
 
-<p align="left">
-   <img src="https://banner2.cleanpng.com/20171219/agl/vector-user-5a39b6ea035b50.04900478151373181801388701.jpg" alt="Whats-App-Image-2020-07-15-at-21-42-06-  2-2" border="0" width="100">
-</p>
 
 🙌 A first year student pursuing BTech in Computer Science Engineering at Mar Baselios college of engineering and technology, Trivandrum.I live in       Thiruvananthapuram.💕
 
