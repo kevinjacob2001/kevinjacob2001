@@ -3,7 +3,7 @@
 
 
 <p align="left">
-   <img src="https://i.ibb.co/grQkYvV/Whats-App-Image-2020-07-15-at-21-42-06-2-2.png" alt="Whats-App-Image-2020-07-15-at-21-42-06-  2-2" border="0" width="100">
+   <img src="https://i.pinimg.com/564x/57/f3/5c/57f35cb5e90323e898e0962c6822b20a.jpg" alt="Whats-App-Image-2020-07-15-at-21-42-06-  2-2" border="0" width="100">
 </p>
 
 🙌 A first year student pursuing BTech in Computer Science Engineering at Mar Baselios college of engineering and technology, Trivandrum.I live in       Thiruvananthapuram.💕
