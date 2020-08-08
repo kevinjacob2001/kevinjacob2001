@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hello 👋
 ## :octocat: I'm Kevin Jacob
 
 🙌 A first year student pursuing BTech in Computer Science Engineering at Mar Baselios college of engineering and technology, Trivandrum.I live in       Thiruvananthapuram.💕
