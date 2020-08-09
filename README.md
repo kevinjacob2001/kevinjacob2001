@@ -14,8 +14,8 @@
 - Linkedin: https://www.linkedin.com/in/kevinjacob2001/
 - Twitter: https://twitter.com/KevinJa25452355
 
-  <img src = 'https://image.flaticon.com/icons/svg/919/919827.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/><img src="https://img.icons8.com/officel/40/000000/react.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
- 
+  <img src = 'https://image.flaticon.com/icons/svg/919/919827.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/><img src="https://img.icons8.com/officel/40/000000/react.png"/>
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png"/>
 
 
 
