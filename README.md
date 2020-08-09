@@ -10,6 +10,7 @@
 - 🌱 I’m currently learning Javascript and its framework React.
 
 - 📫 Get in touch
+</br>
  Personal site: https://kevinjacob2001.github.io/
 
 <img src="https://img.icons8.com/fluent/35/000000/linkedin-2.png"/>: https://www.linkedin.com/in/kevinjacob2001/
