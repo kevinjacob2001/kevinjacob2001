@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# <img src="https://img.icons8.com/doodle/100/000000/hello--v1.png"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 ## :octocat: I'm Kevin Jacob
 
 
