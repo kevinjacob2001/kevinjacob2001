@@ -10,7 +10,12 @@
 - 🌱 I’m currently learning Javascript and its framework React.
 </br>
 
-## :Get in touch:
+## :computer: Interested in:
+
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/officel/54/000000/react.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+
+## Get in touch:
 
  Personal site: https://kevinjacob2001.github.io/
 
@@ -20,7 +25,4 @@
 
 <img src="https://img.icons8.com/fluent/35/000000/instagram-new.png"/>: https://www.instagram.com/kevinjacob2001/
 
-## :computer: Interested in:
 
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/officel/54/000000/react.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
