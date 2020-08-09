@@ -14,11 +14,6 @@
 - Linkedin: https://www.linkedin.com/in/kevinjacob2001/
 - Twitter: https://twitter.com/KevinJa25452355
 
-## :computer: Learning
+## :computer: Interested in:
 
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-
-![Kevinjacob2001's github stats](https://github-readme-stats.vercel.app/api?username=kevinjacob2001&show_icons=true&hide=[%22issues%22])
-
-
-
