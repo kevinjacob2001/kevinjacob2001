@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on Web.
 
-- 🌱 I’m currently learning Javascript and its framework like React!
+- 🌱 I’m currently learning <img src="https://img.icons8.com/color/48/000000/javascript.png"/> and its framework <img src="https://img.icons8.com/cute-clipart/64/000000/react-native.png"/>.
 
 - 📫 Get in touch
-- Personal site: https://kevinjacob2001.github.io/
-- Linkedin: https://www.linkedin.com/in/kevinjacob2001/
-- Twitter: https://twitter.com/KevinJa25452355
-
+<img src="https://img.icons8.com/fluent/35/000000/globe.png"/> Personal site: https://kevinjacob2001.github.io/
+<img src="https://img.icons8.com/fluent/35/000000/linkedin-2.png"/>: https://www.linkedin.com/in/kevinjacob2001/
+<img src="https://img.icons8.com/fluent/35/000000/twitter.png"/>: https://twitter.com/KevinJa25452355
+<img src="https://img.icons8.com/fluent/35/000000/instagram-new.png"/>: https://www.instagram.com/kevinjacob2001/
 ## :computer: Interested in:
 
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/officel/54/000000/react.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
