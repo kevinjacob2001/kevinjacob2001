@@ -12,7 +12,7 @@
 
 ## :computer: Interested in:
 
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/officel/54/000000/react.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/dusk/64/000000/javascript.png"/> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/officel/54/000000/react.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.shields.io/badge/-express-black?style=flat-square&logo=express"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 
 ## Get in touch:
