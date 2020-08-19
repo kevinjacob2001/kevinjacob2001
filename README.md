@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Web.
 
-- 🌱 I’m currently learning Javascript and its framework React.
+- 🌱 I’m currently doing projects on Full-Stack web development(MERN).
 </br>
 
 ## :computer: Technology Stack:
