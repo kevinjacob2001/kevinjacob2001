@@ -27,5 +27,7 @@
 
 ## Featured:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=Blog__MERN&theme=shades-of-purple)](https://github.com/kevinjacob2001/Blog__MERN) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=CovidTrackerApp&theme=shades-of-purple)](https://github.com/kevinjacob2001/CovidTrackerApp) 
+
 
 
