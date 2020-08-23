@@ -27,3 +27,10 @@
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=CovidTrackerApp&theme=shades-of-purple)](https://github.com/kevinjacob2001/CovidTrackerApp) 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=Blog__MERN-Backend-&theme=shades-of-purple)](https://github.com/kevinjacob2001/Blog__MERN-Backend-) 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=Image_Finder_Application&theme=shades-of-purple)](https://github.com/kevinjacob2001/Image_Finder_Application) 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=WeatherApp&theme=shades-of-purple)](https://github.com/kevinjacob2001/WeatherApp) 
+
