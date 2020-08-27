@@ -26,7 +26,7 @@
 <img src="https://img.icons8.com/fluent/35/000000/instagram-new.png"/>: https://www.instagram.com/kevinjacob2001/
 
 ## Featured:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=Blog__MERN&theme=shades-of-purple)](https://github.com/kevinjacob2001/Blog__MERN) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=CRUD_REST-API&theme=shades-of-purple)](https://github.com/kevinjacob2001/CRUD_REST-API) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=CovidTrackerApp&theme=shades-of-purple)](https://github.com/kevinjacob2001/CovidTrackerApp) 
 
 
