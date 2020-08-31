@@ -25,8 +25,11 @@
 
 <img src="https://img.icons8.com/fluent/35/000000/instagram-new.png"/>: https://www.instagram.com/kevinjacob2001/
 
+## PWA (Progressive Web Apps)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=WeatherApp-PWA&theme=shades-of-purple)](https://github.com/kevinjacob2001/WeatherApp-PWA) 
+
 ## Featured:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=CRUD_REST-API&theme=shades-of-purple)](https://github.com/kevinjacob2001/CRUD_REST-API) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=CovidTrackerApp&theme=shades-of-purple)](https://github.com/kevinjacob2001/CovidTrackerApp) 
-[![pas](https://img.shields.io/static/v1?&message=ProgressiveApp.Store&color=74b9ff&style=flat&label=Follow%20Weather%20App%20by%20KevinJacob%20at)](https://progressiveapp.store/pwa/Weather-App-by-KevinJacob)
+
+
 
