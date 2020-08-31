@@ -28,6 +28,5 @@
 ## Featured:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=CRUD_REST-API&theme=shades-of-purple)](https://github.com/kevinjacob2001/CRUD_REST-API) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=CovidTrackerApp&theme=shades-of-purple)](https://github.com/kevinjacob2001/CovidTrackerApp) 
-
-
+[![pas](https://img.shields.io/static/v1?&message=ProgressiveApp.Store&color=74b9ff&style=flat&label=Follow%20Weather%20App%20by%20KevinJacob%20at)](https://progressiveapp.store/pwa/Weather-App-by-KevinJacob)
 
