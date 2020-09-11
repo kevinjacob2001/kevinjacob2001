@@ -21,7 +21,7 @@
 
 <img src="https://img.icons8.com/fluent/35/000000/linkedin-2.png"/>: https://www.linkedin.com/in/kevinjacob2001/
 
-<img src="https://img.icons8.com/fluent/35/000000/twitter.png"/>: https://twitter.com/KevinJa25452355
+<img src="https://img.icons8.com/fluent/35/000000/twitter.png"/>: https://twitter.com/kevinjacob2001/
 
 <img src="https://img.icons8.com/fluent/35/000000/instagram-new.png"/>: https://www.instagram.com/kevinjacob2001/
 
