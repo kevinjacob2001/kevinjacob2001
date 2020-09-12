@@ -25,6 +25,12 @@
 
 <img src="https://img.icons8.com/fluent/35/000000/instagram-new.png"/>: https://www.instagram.com/kevinjacob2001/
 
+
+## React + Firestore projects (Firebase's realtime database)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=NonStop-ChatApp&theme=shades-of-purple)](https://github.com/kevinjacob2001/NonStop-ChatApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=To-do_FIREBASE&theme=shades-of-purple)](https://github.com/kevinjacob2001/To-do_FIREBASE)
+
+
 ## PWA (Progressive Web Apps)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=WeatherApp-PWA&theme=shades-of-purple)](https://github.com/kevinjacob2001/WeatherApp-PWA) 
 
