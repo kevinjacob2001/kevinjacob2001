@@ -27,7 +27,7 @@
 
 
 ## React + Firestore projects (Firebase's realtime database)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=NonStop-ChatApp&theme=shades-of-purple)](https://github.com/kevinjacob2001/NonStop-ChatApp)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=NonStop-ChatApp&theme=shades-of-purple)](https://github.com/kevinjacob2001/NonStop-ChatApp) 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kevinjacob2001&repo=To-do_FIREBASE&theme=shades-of-purple)](https://github.com/kevinjacob2001/To-do_FIREBASE)
 
 
