@@ -1,5 +1,5 @@
 # <img src="https://img.icons8.com/doodle/100/000000/hello--v1.png"/> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-![](https://komarev.com/ghpvc/?username=kevinjacob2001&color=violet)
+![](https://komarev.com/ghpvc/?username=kevinjacob2001&color=blueviolet)
 ## :octocat: I'm Kevin Jacob
 
 
