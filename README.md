@@ -6,6 +6,7 @@
 
 🙌 A second year student pursuing BTech in Computer Science Engineering at Mar Baselios college of engineering and technology, Trivandrum.I live in       Thiruvananthapuram.💕
 
+## :octocat: OPEN TO WORK
 - 🔭 I’m currently working on Web.
 
 - 🌱 I’m currently doing projects on React and Full-Stack web development(MERN).
