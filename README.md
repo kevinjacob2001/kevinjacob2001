@@ -3,6 +3,9 @@ I'm an final year student and a Software developer intern at Accubits focusing o
 
 ## My Projects ❤️
 
+- [<b>eversky - NFT Marketplace </b>](https://eversky.vercel.app/) : A blockchain-based web application that allows users to list, buy and resell NFTs. I implemented the user interface of the application using Next JS and Tailwindcss and built custom smart contract for the NFT marketplace.
+
+
 - [<b>CovTrack19 </b>](https://github.com/kevinjacob2001/CovTrack) : It's an end-to-end and easily accessible platform that can provide all kinds of data including live vaccination count details and available beds count at COVID-19 hospitals across India and much more. I was responsible for developing the front-end as well as integrating APIs.
 
 - [<b>Token Makes</b>](https://token-makes.vercel.app/) : A NFT Marketplace's landing page UI in NextJS based on inspirations from Dribble! 
