@@ -1,5 +1,4 @@
-I'm an final year student and a Software developer intern at Accubits focusing on Front-end development and blockchain.
-
+I'm currently working as Product Engineer at UST
 
 ## My Projects ❤️
 
@@ -16,6 +15,6 @@ I'm an final year student and a Software developer intern at Accubits focusing o
 
 ## Education 📚
 
-- Studying Bachelor's in Computer Science engnineering from Mar Baselios College of Engineering and Technology.
+- Completed Bachelor's in Computer Science engnineering from Mar Baselios College of Engineering and Technology.
 
 - 📫 Reach out to me at: kevinjacob2001@gmail.com
